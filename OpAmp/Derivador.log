@@ -2,21 +2,21 @@ Circuit: * F:\Cursos\Electronics\SpiceSimulations\OpAmp\Derivador.asc
 
 Direct Newton iteration for .op point succeeded.
 
-Date: Thu Oct 25 15:31:44 2018
-Total elapsed time: 0.051 seconds.
+Date: Thu Oct 25 16:05:31 2018
+Total elapsed time: 0.042 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 3204
-traniter = 3191
-tranpoints = 1577
-accept = 1396
-rejected = 181
+totiter = 2621
+traniter = 2608
+tranpoints = 1269
+accept = 1218
+rejected = 51
 matrix size = 32
 fillins = 45
 solver = Normal
 Matrix Compiler1: 3.99 KB object code size  0.7/0.4/[0.3]
-Matrix Compiler2: 3.36 KB object code size  0.3/0.4/[0.3]
+Matrix Compiler2: 3.36 KB object code size  0.4/0.4/[0.4]
 
 
